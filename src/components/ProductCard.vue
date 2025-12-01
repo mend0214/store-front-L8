@@ -11,7 +11,7 @@
         </div>
         <div class="product-controls">
           <input type="number" v-model="quantity" min="1" class="quantity-input" />
-          <button @click="addToCart">Add to Cart</button>
+          <button @click="addToCart">Add to Basket</button>
         </div>
       </div>
     </div>
