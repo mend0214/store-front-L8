@@ -269,7 +269,7 @@ button {
 .checkout-button {
   margin-top: 20px;
   padding: 10px 20px;
-  background-color: #007acc;
+  background-color: #FFCE00;
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -277,6 +277,6 @@ button {
 }
 
 .checkout-button:hover {
-  background-color: #fff;
+  background-color: #a18100;
 }
 </style>
