@@ -277,6 +277,6 @@ button {
 }
 
 .checkout-button:hover {
-  background-color: #005f8b;
+  background-color: #fff;
 }
 </style>
