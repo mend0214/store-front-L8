@@ -216,7 +216,7 @@ button {
 }
 
 .product-controls button:hover {
-  background-color: #005f8b;
+  background-color: white;
 }
 
 .product-price {
